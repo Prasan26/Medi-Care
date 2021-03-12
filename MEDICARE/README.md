@@ -9,8 +9,6 @@ A flutter android application for Easy interaction between patients and doctors.
 
 >## 💻&nbsp; GETTING STARTED
 
-=> **Fork <a href="https://github.com/LetsUpgrade/MEDICARE"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a>this repository to start contributing.**
-
 => Open your Git Bash command window and in the root directory type the following commands :
 ```bash
     1) git init -initializes the git repository from the GitHub. 
