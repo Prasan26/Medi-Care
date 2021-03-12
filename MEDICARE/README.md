@@ -1,6 +1,5 @@
 # **MEDICARE**
 
-**Project ID: 11**
 >## ✍&nbsp; PROJECT DESCRIPTION
 A flutter android application for Easy interaction between patients and doctors. During a pandemic, many of the patients are looking to get regular health check-ups but due lock-down this seems impossible. The app uses YouTube API to call the video player to get indulge in streaming YouTube videos there, nearby locations are also set using Google Map API and incorporating with an ambulance database which provides real-time location of the ambulance nearby.
 
@@ -16,5 +15,5 @@ A flutter android application for Easy interaction between patients and doctors.
 ```bash
     1) git init -initializes the git repository from the GitHub. 
     2) git clone -Clone the repository to your local machine
-      (git clone https://github.com/<your-github-username>/LetsUpgrade/MEDICARE.git)
+      (git clone https://github.com/Prasan26/Medi-Care.git)
 ```    
